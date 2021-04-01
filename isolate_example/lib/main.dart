@@ -14,8 +14,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
-      // home: StaggerDemo(),
+      // home: MyHomePage(title: 'Flutter Demo Home Page'),;
+      home: StaggerDemo(),
     );
   }
 }
