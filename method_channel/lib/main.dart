@@ -86,7 +86,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 MaterialPageRoute(builder: (context) => TwoExamplePage()),
               );
             },
-            tooltip: 'Call Method Channel with param',
+            tooltip: 'Go to Outher Example',
             child: Text('3'),
           ),
         ],
